@@ -13,6 +13,7 @@ The purpose of this project is to create a community driven effort to test and m
 4. Mine Factory Reloaded
 5. Tinkers Construct
 6. ExtraCells 2
+7. NuclearCraft
 
 ### Download Builds
 Builds are automatically done at drone.io [click here](https://drone.io/github.com/AlgorithmX2/SpatialIO-Compat/files): [![Build Status](https://drone.io/github.com/AlgorithmX2/SpatialIO-Compat/status.png)](https://drone.io/github.com/AlgorithmX2/SpatialIO-Compat/latest)
